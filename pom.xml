@@ -3,7 +3,7 @@
 	<modelVersion>3.6.2</modelVersion>
         <groupId>your.group.id</groupId>
         <artifactId>your-artifact-id</artifactId>
-        <version>3.6.2</version>
+        <version>3.8.5</version>
 
 	<packaging>war</packaging>
 	<version>1.1-SNAPSHOT</version>
